@@ -13,7 +13,7 @@ I am a developer building web applications and documenting my journey of becomin
 
 ## Current Focus
 - **Japanese:** Studying for N2
-- **Full-Stack:** Building a "my-pos", a simple pos web app, using Next.js, TailwindCSS, Nest.js, and PostgreSQL.
+- **Full-Stack:** Building "Paper Safe", using Next.js, TailwindCSS, supabase and PostgreSQL.
 
 ![](https://github-readme-stats.vercel.app/api?username=marcusnoir1011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=marcusnoir1011&theme=dark&hide_border=false)<br/>
